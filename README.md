@@ -1,4 +1,4 @@
-# foodbridge
+# FOODBRIDGE
 #### Video Demo:  https://youtu.be/3Qql9YPzMkA
 #### Description:
 This project is like a digital bridge connecting those with extra food to spare and those in need of a meal. Picture this: you've got some surplus food, maybe from an event or your kitchen. Instead of letting it go to waste, you can quickly post it on Food Bridge. Meanwhile, someone looking for a meal can browse these listings, find what they need, and place an order. It's a win-win for everyone involved, making our communities stronger and reducing food waste at the same time!
